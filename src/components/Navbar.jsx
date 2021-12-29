@@ -53,7 +53,7 @@ const Nav = styled.div`
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
-  background-color: #f7f7f7;
+  background-color: #0057e7;
 `
 
 const Hamburger = styled.div`
@@ -64,7 +64,7 @@ const Hamburger = styled.div`
   span {
     height: 2px;
     width: 25px;
-    background-color: #1f1f1f;
+    background-color: #f7f7f7;
     margin-bottom: 4px;
     border-radius: 5px;
   }
@@ -102,6 +102,6 @@ const Logo = styled.span`
   span {
     font-weight: 300;
     font-size: 20px;
-    color: #1f1f1f;
+    color: #f7f7f7;
   }
 `

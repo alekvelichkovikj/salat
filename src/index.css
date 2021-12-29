@@ -11,19 +11,19 @@ ul,
 a {
   list-style: none;
   text-decoration: none;
-  color: #1f1f1f;
+  color: #f7f7f7;
 }
 
 /* Navbar */
 .menu .active {
-  background-color: #0057e7;
-  color: #f7f7f7;
+  background-color: #f7f7f7;
+  color: #1f1f1f;
   padding: 10px 20px;
   border-radius: 5px;
 }
 
 .menu a:hover {
-  border-bottom: 2px solid #0057e7;
+  border-bottom: 2px solid #f7f7f7;
 }
 
 /* Home */
